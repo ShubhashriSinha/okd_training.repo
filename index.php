@@ -1,3 +1,3 @@
 <?php
-print "Welcome to OCP oc2!!";
+print "Welcome to OCP OCnew!!";
 ?>
